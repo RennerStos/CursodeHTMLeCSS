@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+header {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    
+}
+header > p {
+    
+}
